@@ -1,0 +1,9 @@
+/node_modules
+/build
+/dist
+/Common/.DS_Store 
+.DS_Store
+/node_modules/*
+/node_modules/@babel
+/transfer/src/*
+src/*
